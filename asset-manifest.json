@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Chasek6/7Lost-kids-Portfolio/static/css/main.09229746.css",
+    "main.js": "/Chasek6/7Lost-kids-Portfolio/static/js/main.d9d2e744.js",
+    "static/media/rp1.jpg": "/Chasek6/7Lost-kids-Portfolio/static/media/rp1.6b0a6b90dd6bc9301b10.jpg",
+    "index.html": "/Chasek6/7Lost-kids-Portfolio/index.html",
+    "main.09229746.css.map": "/Chasek6/7Lost-kids-Portfolio/static/css/main.09229746.css.map",
+    "main.d9d2e744.js.map": "/Chasek6/7Lost-kids-Portfolio/static/js/main.d9d2e744.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09229746.css",
+    "static/js/main.d9d2e744.js"
+  ]
+}
