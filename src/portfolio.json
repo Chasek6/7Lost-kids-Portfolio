@@ -1,0 +1,68 @@
+[
+    {
+
+        "id": "1",
+        "name" : "Work Day Scheduler",
+        "image" : "https://user-images.githubusercontent.com/108581086/192963064-5caf65c5-3930-4ce5-ba2e-e1a6afa4a18c.png",
+        "github" : "https://github.com/Chasek6/Work-Day-Scheduler",
+        "deployed" : "https://chasek6.github.io/Work-Day-Scheduler/",
+        "topics" : "HTML, CSS, JavaScript, jQuery, Bootstrap, Moment.js"
+
+    },
+    {
+
+        "id": "2",
+        "name" : "Weather Dashboard",
+        "image" : "https://user-images.githubusercontent.com/108581086/192958540-c4a9c2ab-d3de-4b4d-8d23-03a3e40d1b1b.jpeg",
+        "github" : "https://github.com/Chasek6/Weather-Dashboard/blob/main/Assests/WD.PNG",
+        "deployed" : "https://chasek6.github.io/Weather-Dashboard/",
+        "topics" : "HTML, CSS, JavaScript, jQuery, Bootstrap, OpenWeather API"
+
+    },
+
+    {
+
+        "id": "3",
+        "name" : "Password Generator",
+        "image" : "https://user-images.githubusercontent.com/108581086/192957560-96179357-9e4b-4087-bfb5-0725ea5197af.png",
+        "github" : "https://github.com/Chasek6/Module-3-Password-Generator",
+        "deployed" : "https://chasek6.github.io/Module-3-Password-Generator/",
+        "topics" : "HTML, CSS, JavaScript"
+
+    },
+
+    {
+
+        "id": "4",
+        "name" : "Code Quiz",
+        "image" : "https://user-images.githubusercontent.com/108581086/192953872-2350309e-a915-4ad8-ad9f-4c20830a89cb.jpeg",
+        "github" : "https://github.com/Chasek6/Module-4-Code-Quiz",
+        "deployed" : "https://chasek6.github.io/Module-4-Code-Quiz/",
+        "topics" : "HTML, CSS, JavaScript"
+
+    },
+
+    {
+    
+            "id": "5",
+            "name" : "The Daily Planets",
+            "image" : "https://user-images.githubusercontent.com/108581086/192952674-76bf696c-abc5-48db-a0fe-b14aee09f171.png",
+            "github" : "https://github.com/Chasek6/The-daily-planets",
+            "deployed" : "https://chasek6.github.io/The-daily-planets/",
+            "topics" : "HTML, CSS, JavaScript, jQuery, Bootstrap, NASA API"
+
+    },
+
+    {
+    
+            "id": "6",
+            "name" : "Campaign Manager",
+            "image" : "https://user-images.githubusercontent.com/108581086/192383014-9f70ec87-a522-4c3a-a534-f027abec81c0.png",
+            "github" : "https://github.com/Chasek6/Campaign-Manager1",
+            "deployed" : "https://campaign-manager1.herokuapp.com/",
+            "topics" : "HTML, CSS, JavaScript, jQuery, Bootstrap, Handlebars, MySQL, Sequelize, Express, Node.js, Heroku"
+
+    }
+
+]
+
