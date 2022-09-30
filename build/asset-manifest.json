@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/guide-react-gh-pages/static/css/main.09229746.css",
+    "main.js": "/guide-react-gh-pages/static/js/main.96603cfb.js",
+    "static/media/rp1.jpg": "/guide-react-gh-pages/static/media/rp1.6b0a6b90dd6bc9301b10.jpg",
+    "index.html": "/guide-react-gh-pages/index.html",
+    "main.09229746.css.map": "/guide-react-gh-pages/static/css/main.09229746.css.map",
+    "main.96603cfb.js.map": "/guide-react-gh-pages/static/js/main.96603cfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09229746.css",
+    "static/js/main.96603cfb.js"
+  ]
+}
